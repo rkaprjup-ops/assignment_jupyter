@@ -1,3 +1,6 @@
+## Data
+https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k
+
 ## Task 1
 Exploratory Data Analysis (EDA)
 
