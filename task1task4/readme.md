@@ -1,5 +1,6 @@
-## TASK 1
+## Task 1
 Exploratory Data Analysis (EDA)
+
 Perform a detailed exploratory analysis on the telemetry data.
 Your analysis should:
 ● Understand data distributions.
@@ -9,6 +10,7 @@ Your analysis should:
 ● Compare performance across asset types.
 ● Identify factors influencing equipment failures.
 ● Identify factors affecting energy consumption.
+
 Deliverables
 Provide:
 ● Visualizations
@@ -18,6 +20,7 @@ Provide:
 
 ## Task 4
 Anomaly Detection
+
 Design an anomaly detection framework capable of identifying abnormal equipment behavior.
 Examples include:
 ● Sudden power spikes
@@ -25,12 +28,14 @@ Examples include:
 ● Sensor drift
 ● Abnormal temperature patterns
 ● Equipment degradation
+
 Suggested Techniques
 ● Isolation Forest
 ● Autoencoders
 ● Statistical Thresholding
 ● Clustering
 ● Change Point Detection
+
 Deliverables
 ● Anomaly detection methodology
 ● Visualizations
