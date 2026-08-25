@@ -1,4 +1,8 @@
-# assignment_jupyter
+# NectarIT Assignment
+
+Presentation Video
+
+https://drive.google.com/file/d/1q8OiOprQqSzM0EB-GBDarcOXgs2CXNUO/view?usp=drive_link
 
 Summary of Assignment
 
