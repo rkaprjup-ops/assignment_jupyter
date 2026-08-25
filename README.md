@@ -16,7 +16,7 @@ Presentation Transcribe
 
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Frkaprjup-ops%2Fassignment_jupyter%2Frefs%2Fheads%2Fmain%2FPTT-20260820-WA0007_transcribe.docx&wdOrigin=BROWSELINK
 
-AI Summary:
+AI Summary (videotranscriber.ai):
 
 # Summary of Nectar IT Pre-Screening Assignment Tasks and Methods
 
